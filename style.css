@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(84, 84, 84);
+}
+
+input {
+    font-size: 32px;
+    color: black;
+    width: 128px;
+    font-family: "Consolas";
+    font-weight: 600;
+}
+
+.reset {
+    position: fixed;
+    left: 490px;
+    top: 660px;
+    height: 32px;
+    width: 550px;
+    font-size: 24px;
+    letter-spacing: 10px;
+    border: 0px;
+    border-radius: 25px;
+    font-family: "Consolas";
+    font-weight: 900;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button {
+    position: fixed;
+    left: 645px;
+    top: 275px;
+    font-size: 48px;
+    border: 0px;
+    border-radius: 10px;
+    font-family: "Consolas";
+    font-weight: 900;
+    text-align: center;
+    cursor: pointer;
+}
+
+span {
+    position: fixed;
+    left: 650px;
+    top: 215px;
+    font-size: 48px;
+    font-family: "Consolas";
+    font-weight: 700;
+    color: white;
+}
